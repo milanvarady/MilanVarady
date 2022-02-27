@@ -1,4 +1,4 @@
-Hello, I'm a 16-year-old hobbyist programmer from Hungary who likes making games. 
+Hello, I'm a 17-year-old hobbyist programmer from Hungary who likes making games. 
 I also like to write scripts for whatever crazy idea comes to my mind, such as solving a word search puzzle, 
 doing my grammar homework, or creating a program for my drone, so it attacks people by flying into their faces.
 Have a look at them on my [website](https://aerolite.dev/).
